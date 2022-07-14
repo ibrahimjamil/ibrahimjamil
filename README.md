@@ -5,7 +5,7 @@ Ibrahim Jamil
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list AWS, ML, CV, NLP in year or two
 <br />
 <br />
-💻 - Software Engineer at TechDots — Jan 2022 to Present <br />
+💻 - Software Engineer at TechDots — Jan 2022 to Present (working under the leadership of Toptal developer)<br />
 💻 - Software Engineer at Devigital — Feb 2021 to Dec 2021 <br />
 🎓 - BS(CS) from University of Central Punjab, Lahore — 2016 to 2021 <br />
 😎 - on Upwork paid project — from May 2022 to present <br />
