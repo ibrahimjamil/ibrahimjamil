@@ -20,7 +20,7 @@ Ibrahim Jamil
 some skills include
 <br />
 
-1 - ReactJS | NextJS | Redux-Saga | MaterialUI | MantineUI | Styled-Component <br />
+1 - ReactJS | NextJS | Redux-Saga | React-Query | MaterialUI | MantineUI | Styled-Component <br />
 2 - NodeJS <br />
 3 - ExpressJS | TypeScript <br />
 4 - Postgress | MongoDB <br />
