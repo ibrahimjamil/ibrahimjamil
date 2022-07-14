@@ -1,8 +1,21 @@
 Ibrahim Jamil
 
-## Hi, I am a Full Stack Software Engineer with expertise in MERN/PERN with Docker and Kubernetes
+## Hi, I am a Fullstack Software Engineer with expertise in MERN/PERN with Docker and Kubernetes
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list AWS, ML, CV, NLP in year or two
+<br />
+<br />
+💻 - Software Engineer at TechDots — Jan 2022 to Present <br />
+💻 - Software Engineer at Devigital — Feb 2021 to Dec 2021 <br />
+🎓 - BS(CS) from University of Central Punjab, Lahore — 2016 to 2021 <br />
+😎 - on Upwork paid project — from May 2022 to present <br />
+🏆 - participated in mindmation programming competition <br />
+🏆 - solved programming problems on leetcode <br />
+<br />
+<br />
+📫 - How to reach me: ibrahimjamil090@gmail.com
+<br />
+<br />
 
 ### Available on:
 
