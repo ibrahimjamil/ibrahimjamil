@@ -1,6 +1,6 @@
 Ibrahim Jamil
 
-## Hi, I am a Fullstack Software Engineer with expertise in MERN/PERN with Docker and Kubernetes
+## Fullstack Software Engineer with expertise in MERN/PERN with Docker and Kubernetes
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list AWS, ML, CV, NLP in year or two
 <br />
