@@ -17,6 +17,21 @@ Ibrahim Jamil
 <br />
 <br />
 
+some skills include
+<br />
+
+1 - ReactJS | NextJS | Redux-Saga | MaterialUI | MantineUI | Styled-Component <br />
+2 - NodeJS <br />
+3 - ExpressJS | TypeScript <br />
+4 - Postgress | MongoDB <br />
+5 - ObjectionJS | Prisma | Typeorm <br />
+7 - Data Migrations <br />
+8 - Cron Scheduling <br />
+9 - Docker <br />
+10 - Kubernetes <br />
+11 - AWS (aws-cognito (auth))
+<br />
+<br />
 ### Available on:
 
 <a href="https://www.linkedin.com/in/ibrahim-jamil-6933b9198/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
