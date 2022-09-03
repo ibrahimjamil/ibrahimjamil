@@ -24,7 +24,7 @@ some skills include
 2 - NodeJS <br />
 3 - ExpressJS | TypeScript <br />
 4 - Postgress | MongoDB <br />
-5 - ObjectionJS | Prisma | Typeorm <br />
+5 - ObjectionJS | Prisma | Typeorm | MySQL | Mongoose<br />
 7 - Data Migrations <br />
 8 - Cron Scheduling <br />
 9 - Docker <br />
