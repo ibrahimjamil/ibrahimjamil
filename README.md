@@ -34,7 +34,7 @@ some skills include
 <br />
 ### Available on:
 
-<a href="https://www.linkedin.com/in/ibrahim-jamil-6933b9198/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/github.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ibrahim-jamil-6933b9198/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ibrahimjamil11/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
 <a href="https://leetcode.com/ibrahimjamil123/"><img height="30" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"></a>
 <br />
