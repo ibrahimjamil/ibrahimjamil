@@ -6,7 +6,7 @@ Ibrahim Jamil
 <br />
 <br />
 💻 - Software Engineer at TechDots — Jan 2022 to Present (working under the leadership of Toptal developer)<br />
-💻 - Software Engineer at Devigital — Feb 2021 to Dec 2021 <br />
+💻 - Software Engineer at Devigital — June 2020 to Dec 2021 <br />
 🎓 - BS(CS) from University of Central Punjab, Lahore — 2016 to 2021 <br />
 😎 - on Upwork paid project — from May 2022 to present <br />
 🏆 - participated in mindmation programming competition <br />
