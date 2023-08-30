@@ -5,7 +5,7 @@ Skills: <br/>
   Golang | Typescript | Gin | Fiber | <br/>
   Express | NestJS | Postgres | Knex | <br/>
   Gorm | Docker | Kubernetes | Terraform | <br/>
-  AWS ( Cognito, EC2(CLI, auto-scaling, load-balancing, security-group), <br/>
+  AWS ( Cognito, EC2( CLI, auto-scaling, load-balancing, security-group ), <br/>
     S3, VPC, Lambda, RDS, API-Gateway, Route-Tables, EBS, EFS ). <br/>
 
 ## :link:	Stay in touch
