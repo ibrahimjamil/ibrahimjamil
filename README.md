@@ -2,7 +2,7 @@
 <br/>
 Full-stack Golang/Typescript developer. <br/>
 Skills: <br/>
-  Golang | Typescript | Gin | Fiber | <br/>
+  Golang | Typescript | Python | Gin | Fiber | <br/>
   Express | NestJS | Postgres | Knex | <br/>
   Gorm | Docker | Kubernetes | Terraform | <br/>
   AWS ( Cognito, EC2( CLI, auto-scaling, security-group ), ELB <br/>
